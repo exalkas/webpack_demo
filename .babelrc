@@ -1,0 +1,5 @@
+{
+    "presets": ["babel-preset-env",
+        "react" // this is to handle react JSX as well
+    ]
+}
